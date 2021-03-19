@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/navigation_absensi"
+        android:icon="@drawable/log"
+        android:title="Absensi"/>
+
+    <item
+        android:id="@+id/navigation_lainnya"
+        android:icon="@drawable/task"
+        android:title="Tugas"
+        />
+</menu>
